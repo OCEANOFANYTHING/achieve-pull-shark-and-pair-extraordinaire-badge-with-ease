@@ -116,3 +116,9 @@ This script is provided "as is" without warranty of any kind. Use it at your own
 This Script is intended for educational purposes and to help developers automate repetitive tasks. Always ensure you understand the code and its implications before running it in a production environment.
 
 this project is made for fun and to help developers achieve the "Pull Shark" and "Pair Extraordinaire" badges on GitHub. It is not intended for malicious use or to spam repositories. Always respect the guidelines and policies of the platforms you are using. Use responsibly and ethically.
+
+## Donate
+
+If you find this project helpful and would like to support its development, consider buying me a coffee! Your support is greatly appreciated.
+
+[![Buy Me a ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://ko-fi.com/oceanofanythinofficial)
