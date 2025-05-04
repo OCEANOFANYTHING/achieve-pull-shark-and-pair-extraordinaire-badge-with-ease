@@ -1,0 +1,41 @@
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Following the guidelines can make you more likely to get responses.
+      options:
+        - label: >-
+            I have read and accepted the
+            [contributing guidelines](https://github.com/OCEANOFANYTHING/achieve-pull-shark-and-pair-extraordinaire-badge-with-ease/blob/main/CONTRIBUTING.md).
+          required: true
+
+  - type: dropdown
+    id: download
+    attributes:
+      label: How did you use the project?
+      options:
+        - Automated Git operations
+        - Created pull requests and merged them
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please describe your question or issue in detail.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps you have already tried
+      description: Describe the steps you took to resolve the issue.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: |
+        Links? References? Or logs? Anything that will give us more context about the issue you are encountering!
