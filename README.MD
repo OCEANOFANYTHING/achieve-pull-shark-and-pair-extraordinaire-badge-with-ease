@@ -1,5 +1,11 @@
 # Achieve Pull Shark and Pair Extraordinaire Badge with Ease
 
+![Project Banner](achieve-pull-shark-and-pair-extraordinaire-badge-with-ease.png)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
 This project automates the process of creating Git branches, making changes, committing them, pushing to a remote repository, creating pull requests, and merging them. It is designed to streamline repetitive tasks for developers and ensure consistency in branch naming and commit messages.
 
 ## Features
