@@ -6,7 +6,7 @@ Thank you for considering contributing to this project! Your contributions are h
 
 ### 1. Reporting Issues
 
-If you encounter any bugs, have suggestions, or want to request a feature, please open an issue in the [GitHub Issues](https://github.com/your-username/achieve-pull-shark-and-pair-extraordinaire-badge-with-ease/issues) section. Provide as much detail as possible, including steps to reproduce the issue if applicable.
+If you encounter any bugs, have suggestions, or want to request a feature, please open an issue in the [GitHub Issues](https://github.com/OCEANOFANYTHING/achieve-pull-shark-and-pair-extraordinaire-badge-with-ease/issues) section. Provide as much detail as possible, including steps to reproduce the issue if applicable.
 
 ### 2. Submitting Pull Requests
 
@@ -16,7 +16,7 @@ We welcome pull requests for bug fixes, new features, or documentation improveme
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/achieve-pull-shark-and-pair-extraordinaire-badge-with-ease.git
+   git clone https://github.com/OCEANOFANYTHING/achieve-pull-shark-and-pair-extraordinaire-badge-with-ease.git
    cd achieve-pull-shark-and-pair-extraordinaire-badge-with-ease
    ```
 
