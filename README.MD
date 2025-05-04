@@ -1,4 +1,4 @@
-# Achive Pull Shark and Pair Extraordinaire Badge with Ease
+# Achieve Pull Shark and Pair Extraordinaire Badge with Ease
 
 This project automates the process of creating Git branches, making changes, committing them, pushing to a remote repository, creating pull requests, and merging them. It is designed to streamline repetitive tasks for developers and ensure consistency in branch naming and commit messages.
 
