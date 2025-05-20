@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-This project automates the process of creating Git branches, making changes, committing them, pushing to a remote repository, creating pull requests, and merging them. It is designed to streamline repetitive tasks for developers and ensure consistency in branch naming and commit messages.
+This project automates the process of creating Git branches, making changes, committing them, pushing to a remote repository, creating pull requests, and merging them. It is designed to streamline repetitive tasks for developers and ensure consistency in branch naming and commit messages. <a href="https://scriptxeno.github.io/posts/achieve-github-badge-with-ease/">Read The Full Detailed Article on This Project</a>
 
 ## Features
 
